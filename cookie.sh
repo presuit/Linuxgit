@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+#hihihihi I'm cookie villian
 IFS=$'\n'
 
 declare -a arrPre=()

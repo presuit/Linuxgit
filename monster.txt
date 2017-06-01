@@ -1,1 +1,2 @@
 I'm monster
+and this is a new string!
